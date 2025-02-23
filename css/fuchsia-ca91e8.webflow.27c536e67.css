@@ -4088,7 +4088,7 @@ figcaption {
     width: 100%;
     max-width: 16%;
     position: absolute;
-    bottom: -10%;
+    bottom: 5%;
     left: 20%;
 }
 
@@ -4141,7 +4141,7 @@ figcaption {
     width: 100%;
     max-width: 18%;
     position: absolute;
-    bottom: -5%;
+    bottom: -2%;
     right: -5%;
 }
 
@@ -5480,7 +5480,7 @@ figcaption {
     }
 
     .header142_image-wrapper8 {
-        bottom: -5%;
+        bottom: -2%;
     }
 
     .header142_image-wrapper5 {
