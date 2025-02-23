@@ -4545,7 +4545,7 @@ figcaption {
 }
 
 .layout359_colour {
-    background-color: var(--fuchsia);
+    background-color: var();
     background-image: url("/55.jpg");
     background-position: 50%;
     background-repeat: no-repeat;
@@ -4823,12 +4823,12 @@ figcaption {
     top: 0;
 }
 
-.graphic1 {
+/* .graphic1 {
     z-index: -1;
     width: 60%;
     position: absolute;
     inset: 8% -11% 0% auto;
-}
+} */
 
 .graphic2 {
     z-index: -1;
@@ -5954,7 +5954,7 @@ figcaption {
         flex-flow: column;
         grid-template-rows: 1fr 1fr;
         grid-template-columns: 1fr;
-        display: flex;
+        display: grid;
     }
 
     .layout359_card.is-first {
